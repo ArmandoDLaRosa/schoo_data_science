@@ -1,2 +1,2 @@
-# schoo_data_science
-Repo to store my school practice notebooks
+# data_science_for_business
+Repo to store my school jupyter notebooks 
